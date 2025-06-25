@@ -11,7 +11,8 @@
 - 🚀 Passionate about **AI**, **Machine Learning**  
 - 📊 Exploring the intersection of **Tech + Finance**  
 - 🤝 Always open to collaborate on impactful tech projects  
-- 📫 Email me at: **nakshatrachouhan436@gmail.com**
+- 📫 Personal Email: **nakshatrachouhan436@gmail.com**  
+- 🏫 IITG Email: **c.nakshatra@iitg.ac.in**
 
 ---
 

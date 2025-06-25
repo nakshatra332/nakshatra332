@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nakshatra Chouhan</h1>
-<p align="center">
-  🎓 BTech student at IIT Guwahati | 💻 Learning ML, Python, Cybersecurity | 🌐 Exploring AI, Blockchain & Finance
+<h1 align="left">Hi 👋, I'm Nakshatra Chouhan</h1>
+<p align="left">
+  🎓 BTech student at IIT Guwahati | 💻 Learning ML, Python | 🌐 Exploring AI & Finance
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ## 🌱 About Me
 
 - 🎓 BTech in Electrical and Electronics Engineering at **IIT Guwahati**  
-- 🚀 Passionate about **AI**, **Machine Learning**, and **Cybersecurity**  
+- 🚀 Passionate about **AI**, **Machine Learning**  
 - 📊 Exploring the intersection of **Tech + Finance**  
 - 🤝 Always open to collaborate on impactful tech projects  
 - 📫 Email me at: **nakshatrachouhan436@gmail.com**
@@ -62,6 +62,5 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nakshatra332&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
 
 ---

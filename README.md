@@ -1,66 +1,27 @@
-## Hi there 👋, I'm Nakshatra Chouhan
+<h1 align="center">Hi 👋, I'm Nakshatra Chouhan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakshatra332&label=Profile%20views&color=0e75b6&style=flat" alt="nakshatra332" /> </p>
 
-🎓 BTech Student at **IIT Guwahati** | ⚡ Aspiring AI Engineer | 🔐 Cybersecurity Enthusiast  
-🌐 Passionate about Machine Learning, Ethical Hacking, and Finance  
-📍 India | IST (Indian Standard Time)  
-🛠️ Open to collaboration and learning opportunities!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nakshatra332" alt="nakshatra332" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/nakshatra316491" target="blank"><img src="https://img.shields.io/twitter/follow/nakshatra316491?logo=twitter&style=for-the-badge" alt="nakshatra316491" /></a> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nakshatra-chouhan-3a1216338)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nakshatra316491)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nakshatra316491)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nakshatra316491)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+- 🌱 I’m currently learning **Machiene learning**
 
----
+- 📫 How to reach me **nakshatrachouhan436@gmail.com**
 
-## 👨‍💻 About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nakshatra316491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nakshatra316491" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nakshatra-chouhan-3a1216338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakshatra-chouhan-3a1216338" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/whitedevilpo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/whitedevilpo" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/po_dragon_warrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="po_dragon_warrior" height="30" width="40" /></a>
+</p>
 
-- 💻 I’m currently exploring **Machine Learning**, **Deep Learning**, and **Ethical Hacking**
-- 🎯 I’m focusing on building small AI-based projects and working on my **DSA skills**
-- 📚 Learning Python, Pandas, Scikit-learn, Git, and more every day
-- 🧠 Side interest: **Finance, Blockchain, and DeFi**
-- 📫 Reach me at: your_email@example.com
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakshatra332&show_icons=true&locale=en&layout=compact" alt="nakshatra332" /></p>
 
-## 📈 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakshatra332&show_icons=true&locale=en" alt="nakshatra332" /></p>
 
-![Nakshatra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakshatra316491&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshatra316491&layout=compact&theme=radical)
-![Streak Stats](https://streak-stats.demolab.com?user=Nakshatra316491&theme=radical)
-
----
-
-## 🧰 Tools & Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-
----
-
-## 🎯 Currently Learning
-
-- 🤖 Advanced Python, NumPy, Pandas
-- 🔐 Cybersecurity basics & tools (Wireshark, Burp Suite)
-- 🧠 Deep Learning with TensorFlow & PyTorch
-- 📊 Exploring Finance + Crypto
-
----
-
-## 📬 Let's Connect
-
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nakshatra-chouhan-3a1216338)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nakshatra316491)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nakshatra316491)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nakshatra316491)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakshatra332&" alt="nakshatra332" /></p>

@@ -3,6 +3,7 @@
   🎓 BTech student at IIT Guwahati | 💻 Learning ML, Python, Cybersecurity | 🌐 Exploring AI, Blockchain & Finance
 </p>
 
+---
 
 ## 🌱 About Me
 
@@ -62,8 +63,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nakshatra332&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakshatra332" alt="Streak Stats" />
-</p>
 
 ---

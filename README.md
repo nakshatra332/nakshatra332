@@ -1,35 +1,29 @@
 <h1 align="center">Hi 👋, I'm Nakshatra Chouhan</h1>
 <p align="center">
-  BTech student at IIT Guwahati | Learning ML, Python, Cybersecurity | Exploring AI + Finance 🌐
+  🎓 BTech student at IIT Guwahati | 💻 Learning ML, Python, Cybersecurity | 🌐 Exploring AI, Blockchain & Finance
 </p>
 
 ---
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nakshatra332&label=Profile%20views&color=0e75b6&style=flat" alt="nakshatra332" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nakshatra332&label=Profile%20views&color=0e75b6&style=flat" alt="nakshatra332" />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nakshatra332" alt="nakshatra332" />
-  </a> 
-</p>
-
-<p align="left"> 
+<p align="center">
   <a href="https://twitter.com/nakshatra316491" target="blank">
     <img src="https://img.shields.io/twitter/follow/nakshatra316491?logo=twitter&style=for-the-badge" alt="nakshatra316491" />
-  </a> 
+  </a>
 </p>
 
 ---
 
 ## 🌱 About Me
 
-- 🎓 BTech in Electrical and Electronics Engineering at IIT Guwahati  
-- 💻 Currently learning **Machine Learning**, **Python**  
-- 📊 Exploring **AI tools**, **Finance**  
-- 🤝 Open to collaboration on tech projects and AI tools  
-- 📫 Reach me at **nakshatrachouhan436@gmail.com**
+- 🎓 BTech in Electrical and Electronics Engineering at **IIT Guwahati**  
+- 🚀 Passionate about **AI**, **Machine Learning**, and **Cybersecurity**  
+- 📊 Exploring the intersection of **Tech + Finance**  
+- 🤝 Always open to collaborate on impactful tech projects  
+- 📫 Email me at: **nakshatrachouhan436@gmail.com**
 
 ---
 
@@ -73,11 +67,16 @@
 
 ## 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakshatra332&show_icons=true&locale=en&layout=compact" alt="nakshatra332" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakshatra332&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakshatra332&show_icons=true&locale=en" alt="nakshatra332" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nakshatra332&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakshatra332&" alt="nakshatra332" /></p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakshatra332" alt="Streak Stats" />
+</p>
 
 ---
-

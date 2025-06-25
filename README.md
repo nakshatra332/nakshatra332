@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/nakshatra316491" target="blank"><img src="https://img.shields.io/twitter/follow/nakshatra316491?logo=twitter&style=for-the-badge" alt="nakshatra316491" /></a> </p>
 
-- 🌱 I’m currently learning **Machiene learning**
+- 🌱 I’m currently learning **Machine Learning**
 
+  
 - 📫 How to reach me **nakshatrachouhan436@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

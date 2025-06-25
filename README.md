@@ -26,8 +26,8 @@
 ## 🌱 About Me
 
 - 🎓 BTech in Electrical and Electronics Engineering at IIT Guwahati  
-- 💻 Currently learning **Machine Learning**, **Python**, and **Cybersecurity**  
-- 📊 Exploring **AI tools**, **Finance**, and **Blockchain basics**  
+- 💻 Currently learning **Machine Learning**, **Python**  
+- 📊 Exploring **AI tools**, **Finance**  
 - 🤝 Open to collaboration on tech projects and AI tools  
 - 📫 Reach me at **nakshatrachouhan436@gmail.com**
 

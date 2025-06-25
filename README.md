@@ -14,8 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/nakshatra316491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nakshatra316491" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nakshatra-chouhan-3a1216338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakshatra-chouhan-3a1216338" height="30" width="40" /></a>
- <a href="https://www.kaggle.com/whitedevilpo">
- target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/whitedevilpo" height="30" width="40" /></a>
+ <a href="https://www.kaggle.com/whitedevilpo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/whitedevilpo" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/po_dragon_warrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="po_dragon_warrior" height="30" width="40" /></a>
 </p>
 

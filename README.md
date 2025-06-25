@@ -3,19 +3,6 @@
   🎓 BTech student at IIT Guwahati | 💻 Learning ML, Python, Cybersecurity | 🌐 Exploring AI, Blockchain & Finance
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nakshatra332&label=Profile%20views&color=0e75b6&style=flat" alt="nakshatra332" />
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/nakshatra316491" target="blank">
-    <img src="https://img.shields.io/twitter/follow/nakshatra316491?logo=twitter&style=for-the-badge" alt="nakshatra316491" />
-  </a>
-</p>
-
----
 
 ## 🌱 About Me
 
